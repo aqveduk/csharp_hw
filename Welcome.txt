@@ -1,2 +1,4 @@
+print("Hi again and welcome friend");
 print("Hi again");
 print("Dont hi man;");
+
